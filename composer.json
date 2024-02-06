@@ -1,5 +1,5 @@
 {
-    "name": "raldea/magento2-module-sentimate",
+    "name": "raldea/magento2-module-sentimate-raldea",
     "description": "The sentimate module runs sentiment analysis in review",
     "require": {
         "php": "^8.1",
